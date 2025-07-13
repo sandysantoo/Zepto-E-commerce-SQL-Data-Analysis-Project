@@ -1,4 +1,4 @@
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=KlkfbDEjskb5&format=png&color=000000" width="35" /></a> SQL-ad-hoc-CPG
+# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=KlkfbDEjskb5&format=png&color=000000" width="35" /></a> SQL Zepto E-commerce
 This is my Zepto E-commerce SQL Data Analysis Project
 
 # <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=FkqjAX6ZGe4B&format=png&color=000000" width="35" /></a> INTRODUCTION :
