@@ -1,0 +1,24 @@
+1. Identify Top Discounts to Promote During Sales
+
+Retrieved Top 10 best-value products with the highest discount percentages to spotlight in promotional banners or limited-time offers.
+
+2. Find Premium Products That Need Restocking
+Queried all high-MRP products that are currently out of stock, helping inventory managers prioritize restocking of high-value SKUs.
+
+3. Estimate Potential Revenue by Product Category
+Calculated total revenue opportunity per category to support category managers in forecasting and inventory allocation.
+
+4. Detect Overpriced Products with Low Discounts
+Filtered out expensive products (MRP > ₹500) that offer minimal discounts, which may require repricing or promotional tweaks to boost sales.
+
+5. Optimize Pricing Strategy Across Categories
+Ranked the top 5 product categories offering the highest average discounts, giving insight into aggressive pricing areas vs low-margin ones.
+
+6. Evaluate Product Value Using Price-to-Weight Ratio
+Computed price per gram to highlight value-for-money products, especially useful for bulk-buy recommendations and pricing adjustments.
+
+7. Segment Inventory by Packaging Size
+Grouped products into Low (<500g), Medium (500g–1500g), and Bulk (>1500g) to help logistics and marketing teams with packaging decisions.
+
+8. Measure Total Inventory Load Per Category
+Summed up the total inventory weight for each category to assist warehousing teams in understanding stock volume and storage needs.
